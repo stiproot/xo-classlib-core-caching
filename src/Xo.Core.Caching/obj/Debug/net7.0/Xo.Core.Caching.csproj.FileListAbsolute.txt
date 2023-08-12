@@ -1,0 +1,12 @@
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/bin/Debug/net7.0/Xo.Core.Caching.deps.json
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/bin/Debug/net7.0/Xo.Core.Caching.dll
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/bin/Debug/net7.0/Xo.Core.Caching.pdb
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/obj/Debug/net7.0/Xo.Core.Caching.csproj.AssemblyReference.cache
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/obj/Debug/net7.0/Xo.Core.Caching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/obj/Debug/net7.0/Xo.Core.Caching.AssemblyInfoInputs.cache
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/obj/Debug/net7.0/Xo.Core.Caching.AssemblyInfo.cs
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/obj/Debug/net7.0/Xo.Core.Caching.csproj.CoreCompileInputs.cache
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/obj/Debug/net7.0/Xo.Core.Caching.dll
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/obj/Debug/net7.0/refint/Xo.Core.Caching.dll
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/obj/Debug/net7.0/Xo.Core.Caching.pdb
+/Users/simon.stipcich/code/repo/xo-classlib-core-caching/src/Xo.Core.Caching/obj/Debug/net7.0/ref/Xo.Core.Caching.dll
